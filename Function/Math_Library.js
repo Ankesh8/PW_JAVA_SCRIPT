@@ -1,0 +1,5 @@
+console.log(Math.abs(-9))
+console.log(Math.round(7.99))
+console.log(Math.floor(4.55))
+console.log(Math.ceil(9.44))
+console.log(Math.random(4,7))
